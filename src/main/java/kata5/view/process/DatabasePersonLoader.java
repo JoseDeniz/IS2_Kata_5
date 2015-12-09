@@ -1,4 +1,4 @@
-package kata5.process;
+package kata5.view.process;
 
 import kata5.model.Mail;
 import kata5.model.Person;

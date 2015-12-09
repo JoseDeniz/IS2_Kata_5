@@ -2,9 +2,9 @@ package kata5.application;
 
 import kata5.model.Histogram;
 import kata5.model.Person;
-import kata5.process.DatabasePersonLoader;
-import kata5.process.HistogramBuilder;
-import kata5.view.HistogramDisplay;
+import kata5.view.process.DatabasePersonLoader;
+import kata5.view.process.HistogramBuilder;
+import kata5.view.ui.HistogramDisplay;
 import org.sqlite.JDBC;
 
 import java.sql.Connection;

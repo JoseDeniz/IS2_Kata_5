@@ -1,4 +1,4 @@
-package kata5.view;
+package kata5.view.ui;
 
 import kata5.model.Histogram;
 import org.jfree.chart.ChartPanel;
